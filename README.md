@@ -12,7 +12,7 @@ Para ello utilizamos el comando:
 
 Como se muestra en la imagen:
 
-![Alt text](images/01.jpg?raw=true "Instalando curl")
+![Alt text](images/01.JPG?raw=true "Instalando curl")
 
 ## Instalación de RVM:
 
@@ -24,7 +24,7 @@ Para ello utilizamos el comando:
 
 Que devuelve la salida:
 
-![Alt text](images/02.jpg?raw=true "Instalando RVM")
+![Alt text](images/02.JPG?raw=true "Instalando RVM")
 
 ## Ruby y Git
 
@@ -44,7 +44,7 @@ Para ver la versión instalada:
 
 `git --version`
 
-![Alt text](images/03.jpg?raw=true "Versiones Ruby y Git")
+![Alt text](images/03.JPG?raw=true "Versiones Ruby y Git")
 
 ## Sinatra
 
@@ -52,7 +52,7 @@ Podemos encontrar las gemas publicadas en [rubygems](https://rubygems.org/), par
 
 `gem install sinatra`
 
-![Alt text](images/06.jpg?raw=true "Instalacion Sinatra")
+![Alt text](images/06.JPG?raw=true "Instalacion Sinatra")
 
 ## Twitter
 
@@ -60,7 +60,7 @@ Repetimos el proceso anterior:
 
 `gem install twitter`
 
-![Alt text](images/07.jpg?raw=true "Instalacion Twitter")
+![Alt text](images/07.JPG?raw=true "Instalacion Twitter")
 
 ## gh-pages
 

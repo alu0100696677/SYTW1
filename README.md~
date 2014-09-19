@@ -12,7 +12,7 @@ Para ello utilizamos el comando:
 
 Como se muestra en la imagen:
 
-![Alt text](images/01.png?raw=true "Instalando curl")
+![Alt text](images/01.jpg?raw=true "Instalando curl")
 
 ## Instalación de RVM:
 
@@ -24,13 +24,15 @@ Para ello utilizamos el comando:
 
 Que devuelve la salida:
 
-![Alt text](images/02.png?raw=true "Instalando RVM")
+![Alt text](images/02.jpg?raw=true "Instalando RVM")
 
 ## Ruby y Git
 
 Es lenguaje de programación dinámico y de código abierto enfocado en la simplicidad y productividad. Su elegante sintaxis se siente natural al leerla y fácil al escribirla.
 
-Disponía de la versión 1.9.3p0, que es con la que trabajaré en esta asignatura por ahora, como se ve en la imagen en la que he ejecutado `ruby -v`
+Disponía de la versión 1.9.3p0, que es con la que trabajaré en esta asignatura por ahora, como se ve en la imagen en la que he ejecutado:
+
+`ruby -v`
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 
@@ -42,44 +44,30 @@ Para ver la versión instalada:
 
 `git --version`
 
-![Alt text](images/03.png?raw=true "Versiones Ruby y Git")
+![Alt text](images/03.jpg?raw=true "Versiones Ruby y Git")
 
 ## Sinatra
 
-Podemos encontrar las gemas publicadas en [rubygems](https://rubygems.org/) ejecutamos para instalar:
+Podemos encontrar las gemas publicadas en [rubygems](https://rubygems.org/), para instalar la gema de Sinatra ejecutamos:
 
 `gem install sinatra`
 
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/sinatra.png)
+![Alt text](images/06.jpg?raw=true "Instalacion Sinatra")
 
 ## Twitter
 
-Seguiremos el mismo proceso anterior:
+Repetimos el proceso anterior:
 
 `gem install twitter`
 
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/twitter.png)
+![Alt text](images/07.jpg?raw=true "Instalacion Twitter")
 
 ## gh-pages
 
 Seguimos el tutorial [aquí](https://pages.github.com/)
 
-En mi caso lo generé automaticamente,nos dirigimos a opciones en el repositorio donde queremos publicar la página.
+En mi prágica lo generaré automáticamente. Para ello, nos dirigimos a opciones en el repositorio donde queremos publicar la página. En github pages elegimos "generar la página automaticamente". Cargamos en fichero README.md para que la conversión se haga automáticamente y continuamos eligiendo una plantilla.
 
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/gh-pages1.png)
-
-En github pages elegimos, generar la página automaticamente:
-
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/gh-pages2.png)
-
-Cargamos en fichero README.md para que la conversión se haga automática.
-
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/gh-pages3.png)
-
-Y continuamos eligiendo una plantilla.
-
-![Alt text](https://raw.githubusercontent.com/alu0100611298/Tareas-iniciales/master/imagenes/gh-pages4.png)
-
-El resultado lo podemos ver [aquí](http://alu0100611298.github.io/Tareas-iniciales)
+El resultado lo podemos ver [aquí](http://alu0100696677.github.io/SYTW1)
 
 *Mª Belén Armas Torres · SYTW 2014-2015*
